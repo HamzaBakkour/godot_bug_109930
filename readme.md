@@ -40,3 +40,6 @@ Reproducing the bug using minimal test case.
 ### 4.3 Locating and Analyzing the Function
 
 Locating the Curve2D::get_closest_point() function within the Godot source code and discuss several potential fixes.
+
+## 4. Submitting the Changes
+Read the Godot contributor guidelines and follow the instructions for submitting a pull request (PR).
