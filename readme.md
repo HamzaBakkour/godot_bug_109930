@@ -1,4 +1,4 @@
-# GoDot Bug 109930
+# Godot Bug 109930
 
 ## 1. Introduction: What is Godot?
 
