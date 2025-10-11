@@ -17,7 +17,7 @@ Games developed in Godot can be exported to multiple platforms, including **Wind
 
 ## 2. Bug 109930
 
-The bug is found in the `Curve2D::get_closest_point()` function of the Godot Engine. The issue, discussed in [GitHub Issue #109930](https://github.com/godotengine/godot/issues/109930), caused incorrect nearest-point calculations for certain curve configurations.
+The bug is found in the `Curve2D::get_closest_point()` function of the Godot Engine. The issue, discussed in [GitHub Issue #109930](https://github.com/godotengine/godot/issues/109930), causes incorrect nearest-point calculations for certain curve configurations.
 
 ---
 
